@@ -130,14 +130,14 @@ Step 6
 </p>
 
 <p>
-<img src="https://i.imgur.com/eBpUkTd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SH293WK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 7
 </p>
 
 <p>
-<img src="https://i.imgur.com/DCKae2s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JY7orDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 8
