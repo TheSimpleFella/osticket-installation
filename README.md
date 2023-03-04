@@ -217,7 +217,7 @@ Step 18
 <img src="https://i.imgur.com/pp8Plyi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 19. This step is on the same page as step 
+Step 19. This step is on the same page as step 18.
 </p>
 
 <p>
