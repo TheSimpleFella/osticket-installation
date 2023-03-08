@@ -1,4 +1,4 @@
-![Step 1](https://user-images.githubusercontent.com/126700220/223868572-b62c8ef0-2340-4cd1-a96e-3af175858684.png)
+
 # osticket-installation
 19 Simple steps to install osTicket successfully.
 <p align="center">
