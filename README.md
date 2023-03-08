@@ -1,3 +1,4 @@
+![Step 1](https://user-images.githubusercontent.com/126700220/223868572-b62c8ef0-2340-4cd1-a96e-3af175858684.png)
 # osticket-installation
 19 Simple steps to install osTicket successfully.
 <p align="center">
@@ -86,7 +87,8 @@ Easy steps to install the open-source help desk ticketing system osTicket.<br />
 <h2>Screenshots of Steps</h2>
 
 <p>
-<img src="https://imgur.com/rJmaadl" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Uploading Step 1.png…]()
+
 </p>
 <p>
 Step 1
