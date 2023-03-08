@@ -86,8 +86,7 @@ Easy steps to install the open-source help desk ticketing system osTicket.<br />
 <h2>Screenshots of Steps</h2>
 
 <p>
-<img src="![Step 1](https://user-images.githubusercontent.com/126700220/223867807-9815cc4e-2f18-4b47-9621-09fa9b1257ee.png)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[url=https://imgur.com/rJmaadl][img]http://i.imgur.com/rJmaadl.png[/img][/url]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 1
