@@ -187,14 +187,14 @@ Step 14
 </p>
 
 <p>
-<img src="https://i.imgur.com/Tns5G15.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oC4kaPR.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 15
 </p>
 
 <p>
-<img src="https://i.imgur.com/yukHYcx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mIVPTfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 16
