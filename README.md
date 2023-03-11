@@ -126,14 +126,14 @@ Step 5
 </p>
 
 <p>
-<img src="https://i.imgur.com/vYrEmbS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502135-9a9f9ff3-5682-46b4-9115-2bb69040852b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 6
 </p>
 
 <p>
-<img src="https://i.imgur.com/SH293WK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502157-fead8fa4-ea0d-4721-9369-4c95928e34da.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 7
@@ -141,14 +141,14 @@ Step 7
 <br />
 
 <p>
-<img src="https://i.imgur.com/JY7orDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502174-0db640a1-eee5-4f50-8ec4-7e6adcf5956d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 8
 </p>
 
 <p>
-<img src="(https://i.imgur.com/kdR3pHV.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502200-f74c71cd-8e3b-43c7-9d84-ea7f833c68ab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 9
@@ -156,7 +156,7 @@ Step 9
 <br />
 
 <p>
-<img src="https://i.imgur.com/4sqK953.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502221-49f76209-a33c-4efa-a172-3f204b86ca1f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 10
@@ -164,7 +164,7 @@ Step 10
 <br />
 
 <p>
-<img src="https://i.imgur.com/lGZjW2t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502241-4fed2d28-8605-41c2-9bde-ff674942a75f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 11
@@ -172,14 +172,14 @@ Step 11
 <br />
 
 <p>
-<img src="https://i.imgur.com/S6TVgB8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502264-73b5ab38-8e46-4fa6-a5ae-84c5de73b970.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 12
 </p>
 
 <p>
-<img src="https://i.imgur.com/DYSaLpX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502282-7c85492f-9fad-4b43-8431-6ba8cb381034.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 13
@@ -187,7 +187,7 @@ Step 13
 <br />
 
 <p>
-<img src="https://i.imgur.com/RJODXpg.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224502301-41dd2139-85aa-474e-aa75-42bb21e6083b.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 14
