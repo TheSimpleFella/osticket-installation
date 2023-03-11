@@ -227,7 +227,7 @@ Step 18
 <img src="https://user-images.githubusercontent.com/126700220/224502339-7cd7a5b7-3117-4e9b-856d-90e8951e1c47.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 19. This step is on the same page as step 18.
+Step 19. This step is on the same page as step 16 and 18.
 </p>
 <br />
 
