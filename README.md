@@ -108,6 +108,7 @@ Step 2
 <p>
 Step 3
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/ZW6TR1G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -115,6 +116,7 @@ Step 3
 <p>
 Step 4
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/UWltMeS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -136,6 +138,7 @@ Step 6
 <p>
 Step 7
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/JY7orDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -150,6 +153,7 @@ Step 8
 <p>
 Step 9
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/4sqK953.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -157,6 +161,7 @@ Step 9
 <p>
 Step 10
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/lGZjW2t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -164,6 +169,7 @@ Step 10
 <p>
 Step 11
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/S6TVgB8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -178,6 +184,7 @@ Step 12
 <p>
 Step 13
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/RJODXpg.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -192,6 +199,7 @@ Step 14
 <p>
 Step 15
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/mIVPTfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -213,6 +221,7 @@ Step 17
 <p>
 Step 18
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/pp8Plyi.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -220,6 +229,7 @@ Step 18
 <p>
 Step 19. This step is on the same page as step 18.
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/oeZI4GD.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
