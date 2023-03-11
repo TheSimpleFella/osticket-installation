@@ -71,7 +71,7 @@ Easy steps to install the open-source help desk ticketing system osTicket.<br />
 -Disable inheritance then remove all.
 -New permissions, give to "Everyone", select all.
 
--16. Set up you osTicket in your browser. Steps 18 and 19 are on the same page. I accidentally closed out both virtual machines before taking the screen shots. Scroll to the bottom of the osTicket page in your browser and fill in the remaining boxes.
+-16. Set up your osTicket in your browser. Steps 18 and 19 are on the same page. I accidentally closed out both virtual machines before taking the screen shots. Scroll to the bottom of the osTicket page in your browser and fill in the remaining boxes.
 
 -17.Open Heidi SQL
 -Create new session, root/Password1.
@@ -205,7 +205,7 @@ Step 15
 <img src="https://user-images.githubusercontent.com/126700220/224502339-7cd7a5b7-3117-4e9b-856d-90e8951e1c47.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 16
+Step 16  Set up your osTicket in your browser. Steps 18 and 19 are on the same page. I accidentally closed out both virtual machines before taking the screen shots. Scroll to the bottom of the osTicket page in your browser and fill in the remaining boxes.
 </p>
 
 <p>
