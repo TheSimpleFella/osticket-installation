@@ -95,10 +95,10 @@ Step 1
 <br />
 
 <p>
-<img src="https://i.imgur.com/SbvfVLA.png" height="80%" width="80%" alt="Step 2"/>
+<img src="https://user-images.githubusercontent.com/126700220/224501153-f2015b7c-163b-4a00-bec9-d54d53bd7d29.png" height="80%" width="80%" alt="Step 1"/>
 </p>
 <p>
-Step 2
+Step 1
 </p>
 <br />
 
