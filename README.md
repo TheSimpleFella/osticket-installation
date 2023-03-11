@@ -94,6 +94,8 @@ Step 1
 </p>
 <br />
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224501153-f2015b7c-163b-4a00-bec9-d54d53bd7d29.png" height="80%" width="80%" alt="Step 1"/>
 </p>
@@ -101,6 +103,8 @@ Step 1
 Step 2
 </p>
 <br />
+
+
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224501486-f2142ab7-6a65-4199-8339-8383abffc6a4.png" height="80%" width="80%" alt="Step 3"/>
@@ -110,6 +114,8 @@ Step 3
 </p>
 <br />
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224501584-9ae2ea0f-47ab-4275-a865-0c5a20838cb5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -117,6 +123,8 @@ Step 3
 Step 4
 </p>
 <br />
+
+
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224501699-e2e5c860-efa7-4cb7-a914-92d51f06c122.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -132,6 +140,8 @@ Step 5
 Step 6
 </p>
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502157-fead8fa4-ea0d-4721-9369-4c95928e34da.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -140,12 +150,16 @@ Step 7
 </p>
 <br />
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502174-0db640a1-eee5-4f50-8ec4-7e6adcf5956d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 8
 </p>
+
+
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502200-f74c71cd-8e3b-43c7-9d84-ea7f833c68ab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -171,6 +185,8 @@ Step 11
 </p>
 <br />
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502264-73b5ab38-8e46-4fa6-a5ae-84c5de73b970.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -185,6 +201,8 @@ Step 12
 Step 13
 </p>
 <br />
+
+
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502301-41dd2139-85aa-474e-aa75-42bb21e6083b.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -201,6 +219,8 @@ Step 15
 </p>
 <br />
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502339-7cd7a5b7-3117-4e9b-856d-90e8951e1c47.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -208,12 +228,16 @@ Step 15
 Step 16  Set up your osTicket in your browser. Steps 18 and 19 are on the same page. I accidentally closed out both virtual machines before taking the screen shots. Scroll to the bottom of the osTicket page in your browser and fill in the remaining boxes.
 </p>
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502462-bfdde141-12bf-49ae-933b-0a11dd07d290.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 17
 </p>
+
+
 
 <p>
 <img src="https://i.imgur.com/mIVPTfA.png" width="80%" alt="Disk Sanitization Steps"/>
@@ -223,6 +247,8 @@ Step 18
 </p>
 <br />
 
+
+
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502339-7cd7a5b7-3117-4e9b-856d-90e8951e1c47.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -230,6 +256,7 @@ Step 18
 Step 19. This step is on the same page as step 16 and 18.
 </p>
 <br />
+
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502540-d5fe63e0-edb1-49d1-aa13-1ce19a818a6d.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
