@@ -87,7 +87,7 @@ Easy steps to install the open-source help desk ticketing system osTicket.<br />
 <h2>Screenshots of Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/rJmaadl.png" height="80%" width="80%" alt="Step 2"/>
+<img src="https://i.imgur.com/rJmaadl.png" height="80%" width="80%" alt="Step 1"/>
 </p>
 <p>
 Step 1
@@ -159,21 +159,21 @@ Step 10
 </p>
 
 <p>
-<img src="https://i.imgur.com/lGZjW2t.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lGZjW2t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 11
 </p>
 
 <p>
-<img src="https://i.imgur.com/S6TVgB8.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S6TVgB8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 12
 </p>
 
 <p>
-<img src="https://i.imgur.com/DYSaLpX.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DYSaLpX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 13
@@ -194,21 +194,21 @@ Step 15
 </p>
 
 <p>
-<img src="https://i.imgur.com/mIVPTfA.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mIVPTfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 16
 </p>
 
 <p>
-<img src="https://i.imgur.com/pMSVBKI.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pMSVBKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 17
 </p>
 
 <p>
-<img src="https://i.imgur.com/mIVPTfA.png"width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mIVPTfA.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 18
