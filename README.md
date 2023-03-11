@@ -98,12 +98,12 @@ Step 1
 <img src="https://user-images.githubusercontent.com/126700220/224501153-f2015b7c-163b-4a00-bec9-d54d53bd7d29.png" height="80%" width="80%" alt="Step 1"/>
 </p>
 <p>
-Step 1
+Step 2
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/dValxQb.png" height="80%" width="80%" alt="Step 3"/>
+<img src="https://user-images.githubusercontent.com/126700220/224501486-f2142ab7-6a65-4199-8339-8383abffc6a4.png" height="80%" width="80%" alt="Step 3"/>
 </p>
 <p>
 Step 3
@@ -111,7 +111,7 @@ Step 3
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZW6TR1G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224501584-9ae2ea0f-47ab-4275-a865-0c5a20838cb5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 4
@@ -119,7 +119,7 @@ Step 4
 <br />
 
 <p>
-<img src="https://i.imgur.com/UWltMeS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224501699-e2e5c860-efa7-4cb7-a914-92d51f06c122.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 5
