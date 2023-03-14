@@ -72,6 +72,8 @@ Easy steps to install the open-source help desk ticketing system osTicket.<br />
 -New permissions, give to "Everyone", select all.
 
 -16. Set up your osTicket in your browser. Steps 18 and 19 are on the same page. 
+
+
 -17.Open Heidi SQL
 -Create new session, root/Password1.
 -Connect to session.
