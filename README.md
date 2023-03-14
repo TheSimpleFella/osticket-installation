@@ -226,11 +226,10 @@ Step 17
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/225052564-6db1230b-9740-4959-9101-4d5c5f4fc926.png" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<p>
 Step 18
 </p>
 <br />
-
 
 
 <p>
