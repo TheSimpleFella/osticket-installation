@@ -211,7 +211,7 @@ Step 15
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/224502339-7cd7a5b7-3117-4e9b-856d-90e8951e1c47.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Step 16.  Set up your osTicket in your browser. Steps 18 and 19 are on the same page. I accidentally closed out both virtual machines before taking the screen shots. Scroll to the bottom of the osTicket page in your browser and fill in the remaining boxes.
+Step 16.  Set up your osTicket in your browser. Steps 18 and 19 are also on the same page.
 </p>
 
 
@@ -235,7 +235,7 @@ Step 18
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/225053801-2d54545a-3af5-45d7-9380-58b6bd83f794.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Step 19. This step is on the same page as step 16 and 18.
+Step 19. This step is on the same page as step 16 and 18. Click "INSTALL".
 </p>
 <br />
 
